@@ -1,3 +1,2 @@
 # Cancer_
-
-This project determines creates a ML model that determines if a tumor is maligment or not, to a high precison, accuracy and recall.
+This project creates a ML model to determine if a tumor is malignant or not.
